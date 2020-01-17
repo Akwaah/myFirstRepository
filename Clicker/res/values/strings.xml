@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Clicker</string>
+    <string name ="click_me">ClickMe</string>
+    <string name ="fdbk">FEEDBACK</string>
+    
+
+</resources>
