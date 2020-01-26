@@ -90,7 +90,9 @@ public class WeekendAss {
 
 
 	public static void assurance(boolean program_running_bool, String end_trigger) {
-		System.out.println("Are you sure you want to leave???");
+		System.out.println("Are you sure you want to leave???"
+				+ "\nType in \"yes\" if you want to leave "
+				+ "and \"no\" if you dont want to");
 		String yes = "yes";
 		String no = "no";
 		
